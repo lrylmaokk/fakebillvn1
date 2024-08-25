@@ -1,0 +1,2 @@
+[09-Jul-2024 14:09:30 UTC] PHP Notice:  Undefined variable: stk_di in /home/tmuasourcegiarec/ban.muasourcegiare.com/ajax/vietinbank.php on line 243
+[09-Jul-2024 14:24:43 UTC] PHP Notice:  Undefined index: forbank in /home/tmuasourcegiarec/ban.muasourcegiare.com/ajax/vietcombank.php on line 3
